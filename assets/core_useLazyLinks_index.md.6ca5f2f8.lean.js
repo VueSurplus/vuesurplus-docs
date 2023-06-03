@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.9549a0f3.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"core/useLazyLinks/index.md","filePath":"core/useLazyLinks/index.md"}'),n={name:"core/useLazyLinks/index.md"};function s(r,o,c,i,d,p){return t(),a("div")}const f=e(n,[["render",s]]);export{m as __pageData,f as default};
